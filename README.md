@@ -1,3 +1,0 @@
-# DoctorateRS
-
-Works in progress.
