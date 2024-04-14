@@ -1,6 +1,6 @@
 # DoctorateRS
 
-- A server implementation of a certain anime tower defense game.
+- A server emulator of a certain anime tower defense game.
     - Written in Rust btw.
 
 ## Status
